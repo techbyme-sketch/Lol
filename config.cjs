@@ -24,7 +24,7 @@ ANTI_LINK: process.env.ANTI_LINK !== undefined ? process.env.ANTI_LINK === 'true
   WARNINGS: {}, // Object to keep track of warnings for users (for warn action)
   MODE: process.env.MODE || "public",
   OWNER_NAME: process.env.OWNER_NAME || "©INCONNU BOY",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "554488138425",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "22997937842",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
